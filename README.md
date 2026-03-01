@@ -1,4 +1,4 @@
-# Hi, I'm Abraham Hanson 👋
+# Hi, I'm Abraham E. Hanson 👋
 Backend Engineer | Django • Python • Scalable APIs
 
 I build production-ready backend systems focused on scalability,
