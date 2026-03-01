@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abraham Hanson 👋
+Backend Engineer | Django • Python • Scalable APIs
 
-<!--
-**EkeHanson/EkeHanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-ready backend systems focused on scalability,
+performance, and clean architecture.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Python | Django | DRF | PostgreSQL | Redis | Docker | AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+✅ Recruitment Management System  
+✅ Learning Management System  
+✅ Real-time Messaging Backend
+
+## 📈 What I’m Working On
+Building scalable SaaS backend architectures.
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/ekene-onwon-abraham-4370a0228/) | [Email](ekenehanson@gmail.com)
